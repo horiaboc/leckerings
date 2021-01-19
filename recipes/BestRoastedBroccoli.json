@@ -1,0 +1,108 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "name": "The Best Roasted Broccoli Recipe",
+    "author": {
+      "@type": "Person",
+      "name": "Laura / A Beautiful Plate"
+    },
+    "datePublished": "2019-03-07",
+    "recipeYield": 3,
+    "description": "Roasted broccoli tossed with sliced toasted almonds, red pepper flakes, garlic, lemon juice, and aged pecorino cheese. You won’t be able to stop eating this delicious side dish! Vegetarian and naturally gluten free.",
+    "image": [
+      "https://www.abeautifulplate.com/wp-content/uploads/2016/05/crack-broccoli-1-9-720x720.jpg",
+      "https://www.abeautifulplate.com/wp-content/uploads/2016/05/crack-broccoli-1-9-720x540.jpg",
+      "https://www.abeautifulplate.com/wp-content/uploads/2016/05/crack-broccoli-1-9-720x405.jpg",
+      "https://www.abeautifulplate.com/wp-content/uploads/2016/05/crack-broccoli-1-9-735x1103.jpg"
+    ],
+    "recipeCategory": "Vegetable Side Dishes",
+    "recipeCuisine": "American",
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "performTime": "PT20M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "1 and ½ pounds broccoli crowns (roughly 2 heads)",
+      "¼ cup extra virgin olive oil",
+      "4 garlic cloves, pressed",
+      "large pinch of dried red pepper flakes",
+      "½ teaspoon kosher salt",
+      "3 tablespoons raw, sliced almonds (with or without skin)",
+      "2 teaspoons freshly squeezed lemon juice",
+      "2 – 3 tablespoons freshly grated aged pecorino cheese",
+      "zest of half a lemon"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat the oven to 475 degrees Fahrenheit. Important Note: I use a separate oven thermometer to ensure that my oven is calibrated properly. The high temperature ensures even and deep caramelization (and extra crispy, flavorful florets!). If your oven runs hot (you can check this by using an oven thermometer) or you prefer less crispy florets, reduce the oven temperature to 425F - 450F and adjust cooking time as necessary.",
+        "position": 1,
+        "name": "Preheat the oven to 475 degrees Fahrenheit. Important Note:...",
+        "url": "https://www.abeautifulplate.com/roasted-broccoli-toasted-almonds-lemon-pecorino-cheese/#mv_create_36_1"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Line a sheet pan with aluminum foil. Trim any dry, tough ends of the broccoli crowns, leaving roughly 2-inches of stalk attached. Slice the broccoli into ½-inch-thick steaks, starting in the center of each broccoli crown and working out to the edges, reserving any small or medium florets that fall off for roasting. Slice any large remaining florets in half lengthwise.",
+        "position": 2,
+        "name": "Line a sheet pan with aluminum foil. Trim any...",
+        "url": "https://www.abeautifulplate.com/roasted-broccoli-toasted-almonds-lemon-pecorino-cheese/#mv_create_36_2"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, whisk together the olive oil, pressed garlic, and red pepper flakes. Add the broccoli steaks and toss gently until evenly coated. Arrange the broccoli, cut-side down, on the lined sheet pan, setting them apart slightly. Sprinkle with salt.",
+        "position": 3,
+        "name": "In a large bowl, whisk together the olive...",
+        "url": "https://www.abeautifulplate.com/roasted-broccoli-toasted-almonds-lemon-pecorino-cheese/#mv_create_36_3"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Roast the broccoli for 10 to 12 minutes. Remove the pan from the oven, flip the broccoli, and sprinkle the almond slices evenly across the sheet pan. Roast for an additional 8 to 10 minutes, or until the broccoli is evenly caramelized and fork tender, and the almond slices are toasted and golden.",
+        "position": 4,
+        "name": "Roast the broccoli for 10 to 12 minutes....",
+        "url": "https://www.abeautifulplate.com/roasted-broccoli-toasted-almonds-lemon-pecorino-cheese/#mv_create_36_4"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Transfer the broccoli to a platter, toss gently with the lemon juice and top with the grated pecorino cheese. Garnish with fresh lemon zest. Serve hot or at room temperature (it also tastes great cold). Leftover broccoli can be stored in an airtight container in the fridge for up to 2 days.",
+        "position": 5,
+        "name": "Transfer the broccoli to a platter, toss gently...",
+        "url": "https://www.abeautifulplate.com/roasted-broccoli-toasted-almonds-lemon-pecorino-cheese/#mv_create_36_5"
+      }
+    ],
+    "video": {
+      "@type": "VideoObject",
+      "name": "Crack Broccoli ",
+      "description": "<p>Roasted broccoli tossed with sliced toasted almonds, red pepper flakes, garlic, lemon juice, and aged pecorino cheese. You won’t be able to stop eating this delicious side dish! Vegetarian and naturally gluten free.</p>",
+      "thumbnailUrl": [
+        "https://mediavine-res.cloudinary.com/image/upload/s--EIvkOTkB--/ar_16:9,c_fill,f_auto,fl_lossy,q_auto/v1562770323/lvbsa6jro13isygkq6xd.jpg",
+        "https://mediavine-res.cloudinary.com/image/upload/s--_zPh8lzT--/ar_4:3,c_fill,f_auto,fl_lossy,q_auto/v1562770323/lvbsa6jro13isygkq6xd.jpg",
+        "https://mediavine-res.cloudinary.com/image/upload/s--cP1-eQk0--/ar_1:1,c_fill,f_auto,fl_lossy,q_auto/v1562770323/lvbsa6jro13isygkq6xd.jpg"
+      ],
+      "contentUrl": "https://mediavine-res.cloudinary.com/video/upload/vaplphxn1x4rrdvhwv8n.mp4",
+      "duration": "PT55S",
+      "uploadDate": "2020-10-18T23:40:29+00:00"
+    },
+    "keywords": "crack broccoli, roasted broccoli, best roasted broccoli, broccoli",
+    "suitableForDiet": "VegetarianDiet",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "182 calories",
+      "carbohydrateContent": "7 grams carbohydrates",
+      "cholesterolContent": "1 milligrams cholesterol",
+      "fatContent": "17 grams fat",
+      "fiberContent": "3 grams fiber",
+      "proteinContent": "3 grams protein",
+      "saturatedFatContent": "2 grams saturated fat",
+      "servingSize": "1",
+      "sodiumContent": "307 grams sodium",
+      "sugarContent": "1 grams sugar",
+      "transFatContent": "0 grams trans fat",
+      "unsaturatedFatContent": "14 grams unsaturated fat"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.5999999999999996,
+      "reviewCount": "227"
+    },
+    "url": "https://www.abeautifulplate.com/roasted-broccoli-toasted-almonds-lemon-pecorino-cheese/"
+  }

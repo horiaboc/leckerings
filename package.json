@@ -1,0 +1,29 @@
+{
+  "name": "leckerlings",
+  "version": "1.0.0",
+  "description": "Recipe Management",
+  "main": "leckerings.js",
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "jsdom": "^16.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/horiaboc/leckerings.git"
+  },
+  "keywords": [
+    "recipe",
+    "collection"
+  ],
+  "author": "Horia Bochis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/horiaboc/leckerings/issues"
+  },
+  "homepage": "https://github.com/horiaboc/leckerings#readme"
+}
